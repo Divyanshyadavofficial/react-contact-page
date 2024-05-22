@@ -1,10 +1,7 @@
-# Getting Started with Create React App
+# A beatiful contact page built using react
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="1389" alt="Screenshot 2024-05-23 at 1 07 35 AM" src="https://github.com/Divyanshyadavofficial/react-contact-page/assets/108625357/46e934e9-5ca0-4cd7-89af-ecabe420b433">
 
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
